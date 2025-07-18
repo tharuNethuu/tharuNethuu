@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI , Fullstack , Networking, UI/UX projects**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-pawrq6kx1-tharunethus-projects.vercel.app/](https://my-portfolio-pawrq6kx1-tharunethus-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-tharunethus-projects.vercel.app/](https://my-portfolio-tharunethus-projects.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@tharu0nethu](https://medium.com/@tharu0nethu)
 
